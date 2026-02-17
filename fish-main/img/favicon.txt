@@ -1,0 +1,4 @@
+Для завершения проекта, пожалуйста, скачайте иконку (favicon) Google по адресу:
+https://www.google.com/favicon.ico
+
+Сохраните ее в папке phishing-demo/img/ как favicon.ico 
