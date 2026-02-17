@@ -1,6 +1,0 @@
-Для завершения проекта, пожалуйста, скачайте логотип Google по адресу:
-https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png
-
-Сохраните его в папке phishing-demo/img/ как google-logo.png
-
-Вы также можете использовать любой другой подходящий логотип Google. 
